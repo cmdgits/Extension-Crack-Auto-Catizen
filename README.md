@@ -8,6 +8,7 @@ _then
 Find the extracted extension folder
 ![image](https://github.com/user-attachments/assets/32406455-66d6-46b4-b2e8-8131190a52bb)
 -![image](https://github.com/user-attachments/assets/8d08794c-ed1c-45d4-a9a7-f335eaf0065d) 
+</br>
 -Open the catizen game and press the button Auto to run the game
 
 
